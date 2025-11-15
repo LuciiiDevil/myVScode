@@ -7,7 +7,7 @@ This is a Student Portal/Management System developed in C# to manage student dat
 1. Portal Selection
 
 ![Alt text for image](https://i.imgur.com/EJNpgHM.jpeg)
-
+![](https://i.imgur.com/MwlpaMq.jpeg)
 The application starts with a selection screen, allowing users to choose between Register (for new students) and Student (for existing students to log in).
 
 2. Student Registration
